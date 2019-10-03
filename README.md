@@ -1,4 +1,4 @@
-# pythonGame
+# Crossy RPG Game in Python
 *Python game created using online class*
 
 Collision detection game created to learn pygame and python working with sprites. 
